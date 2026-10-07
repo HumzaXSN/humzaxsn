@@ -21,15 +21,15 @@ I am a **Senior Software Engineer** with over **7 years of hands-on experience**
 ### 📊 Production & Engineering Highlights
 
 ```
-┌───────────────────────────────┬────────────────────────────────────────────────────────┐
-│ Metric                        │ Production Impact                                      │
-├───────────────────────────────┼────────────────────────────────────────────────────────┤
-│ 7+ Years Experience           │ Scaling enterprise backends, APIs & cloud platforms    │
+┌───────────────────────────────┬─────────────────────────────────────────────────────────┐
+│ Metric                        │ Production Impact                                       │
+├───────────────────────────────┼─────────────────────────────────────────────────────────┤
+│ 7+ Years Experience           │ Scaling enterprise backends, APIs & cloud platforms     │
 │ 99.9% Cloud Uptime            │ Maintained on AWS EC2, ALB & Auto-Scaling Groups        │
-│ Sub-100ms Query Latency       │ Multi-level Redis caching & optimized RDS indexing     │
-│ Real-Time Event Streaming     │ Asynchronous AWS Kinesis + Node.js + Lambda pipelines  │
-│ AI/ML Integrations            │ Integrated Gemini, Claude & ChatGPT conversational APIs│
-└───────────────────────────────┴────────────────────────────────────────────────────────┘
+│ Sub-100ms Query Latency       │ Multi-level Redis caching & optimized RDS indexing      │
+│ Real-Time Event Streaming     │ Asynchronous AWS Kinesis + Node.js + Lambda pipelines   │
+│ AI/ML Integrations            │ Integrated Gemini, Claude & ChatGPT conversational APIs │
+└───────────────────────────────┴─────────────────────────────────────────────────────────┘
 ```
 
 ---
