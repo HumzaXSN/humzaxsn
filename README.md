@@ -120,15 +120,6 @@ I am a **Senior Software Engineer** with over **7 years of hands-on experience**
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humzaxsn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Humza Riaz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzaxsn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 💬 Let's Connect
 
 - **Email:** [humzariaz47@outlook.com](mailto:humzariaz47@outlook.com)
