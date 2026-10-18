@@ -104,7 +104,7 @@ For 7+ years I've turned ideas into secure, fast software for healthcare, rental
 
 ### 🚀 Key Projects
 
-> Client work delivered under contract — source code and live systems are private. More case studies on the [portfolio](https://humzariaz.me/#projects).
+> Client work delivered under contract — source code and live systems are private. More case studies on the [portfolio](https://humzariaz.me/#portfolio).
 
 #### 1. Health Management System
 - **Tech Stack:** Laravel, Angular, AWS RDS (MySQL/PostgreSQL), Node.js, Redis
@@ -129,19 +129,19 @@ For 7+ years I've turned ideas into secure, fast software for healthcare, rental
 
 ### 💼 Career Snapshot
 
-- **Senior Software Engineer** @ [Deline Media](https://delinemedia.com) *(May, 2026 – Present)*
+- **Senior Software Engineer** @ [Deline Media](https://delinemedia.com) *(May 2026 – Present)*
   - Architecting AWS serverless microservices with Node.js and Lambda.
   - Designing real-time stream ingestion with AWS Kinesis.
   - Provisioning and managing high-availability AWS RDS database clusters with read replicas.
-- **Full Stack Developer** @ DevStudio *(May, 2025 – May, 2026)*
+- **Full Stack Developer** @ [DevStudio](https://devstudio.us) *(May 2025 – May 2026)*
   - Developed full-stack enterprise applications with Laravel, Node.js, and Angular.
   - Trained and deployed predictive analytics models and integrated Claude/Gemini APIs.
-- **Software Engineer** @ Ashlar Global *(October, 2021 – May, 2025)*
+- **Software Engineer** @ [Ashlar Global](https://ashlarglobal.com) *(October 2021 – May 2025)*
   - Maintained core Laravel API microservices and reactive Vue.js frontends over 3.5 years.
   - Optimized database schemas and query plans for high-traffic web applications.
-- **Website Development** @ Farraj Consultants *(May, 2021 – September, 2021)*
+- **Website Development** @ [Farraj Consultants](https://www.farraj.com.pk/) *(May 2021 – September 2021)*
   - Engineered dynamic web applications with Laravel, Vue.js, and Redis caching.
-- **Freelance Software Engineer** @ Self-employed / Freelance *(2020 – May, 2021)*
+- **Freelance Software Engineer** @ Self-employed / Freelance *(2020 – May 2021)*
   - Built and maintained web applications for small clients with PHP (Laravel), MySQL, JavaScript, and Vue.js.
   - Gathered requirements with clients, built REST APIs, and handled deployment and maintenance, including admin and management systems for healthcare-sector clients.
 
