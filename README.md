@@ -1,22 +1,34 @@
-# Hi there, I'm Muhammad Humza Riaz 👋
+# Hi there, I'm Muhammad Humza Riaz (humzaxsn) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-humza-riaz)
 [![Email](https://img.shields.io/badge/Email-humzariaz47%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:humzariaz47@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://muhammadhumzariaz.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-humzariaz.me-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://humzariaz.me)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0157a4dfc1f41bea5a)
+[![Fiverr](https://img.shields.io/badge/Fiverr-humzaxsn-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/humzaxsn)
 [![Location](https://img.shields.io/badge/Location-Lahore%2C_Pakistan-71717A?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Lahore,Pakistan)
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software Engineer** with over **7 years of hands-on experience** architecting and scaling backend microservices, real-time data streaming pipelines, and enterprise full-stack web applications. 
+**I build booking systems, customer portals, ordering apps and AI tools your business can rely on.**
+
+For 7+ years I've turned ideas into secure, fast software for healthcare, rental, food-ordering and real-estate businesses. Already have a prototype? I'll get it ready for real customers, and explain every step in plain English.
+
+- 🔒 **Your data stays safe:** healthcare-grade protection and the right access for each person.
+- ⚡ **Fast, even when busy:** pages and records that open quickly for every customer.
+- 🤖 **AI that saves time:** ChatGPT, Claude or Gemini built into your everyday work.
+- 🚀 **Prototype to real product:** built a first version with an AI tool? I make it ready for paying customers.
+- 💬 **Updates you can follow:** clear progress and trade-offs in plain English, no jargon.
+
+**For developers:** I'm a **Senior Software Engineer** (GitHub: [@humzaxsn](https://github.com/HumzaXSN)) with over **7 years of hands-on experience** architecting and scaling backend microservices, real-time data streaming pipelines, and enterprise full-stack web applications.
 
 > Scaling enterprise cloud backends, real-time streaming & AI-driven web architectures.
 
 - 🔭 **Currently working on:** Event-driven serverless architectures on **AWS Lambda**, real-time telemetry processing with **AWS Kinesis**, and high-availability database environments on **AWS RDS**.
 - ⚡ **Core focus:** Low-latency API gateways, query optimization (<100ms response times), and intelligent solutions powered by **Claude, ChatGPT, and Gemini APIs**.
 - 🛠️ **Favorite Stack:** PHP (Laravel) · Node.js · Python · Angular · Vue.js · MySQL · Redis · AWS.
-- 🤝 **Open to:** Team roles, dedicated contracts & online projects — see the [portfolio](https://muhammadhumzariaz.netlify.app).
+- 🤝 **Open to:** Team roles, dedicated contracts & online projects — see the [portfolio](https://humzariaz.me), or hire me through [Upwork](https://www.upwork.com/freelancers/~0157a4dfc1f41bea5a) or [Fiverr](https://www.fiverr.com/users/humzaxsn).
 - 📫 **Contact:** Reach me at [humzariaz47@outlook.com](mailto:humzariaz47@outlook.com) or connect on [LinkedIn](https://www.linkedin.com/in/muhammad-humza-riaz).
 
 ---
@@ -84,15 +96,15 @@ I am a **Senior Software Engineer** with over **7 years of hands-on experience**
 - **Backend & data:** Backend and APIs · Database performance · Partner APIs · Data pipelines · Real-time systems
 - **Cloud & delivery:** AWS cloud · Delivery and production care · Security and access · Rescue and migration
 - **Product & AI:** Product interfaces · Internal tools and CRMs · Health systems · AI features · AI extraction
-- **Engagement:** Dedicated engineer · Scoped online project
+- **Engagement:** Dedicated engineer · Scoped online project (directly, or via [Upwork](https://www.upwork.com/freelancers/~0157a4dfc1f41bea5a) / [Fiverr](https://www.fiverr.com/users/humzaxsn))
 
-➡️ Details for each: [muhammadhumzariaz.netlify.app/services](https://muhammadhumzariaz.netlify.app/services)
+➡️ Details for each: [humzariaz.me/services](https://humzariaz.me/services)
 
 ---
 
 ### 🚀 Key Projects
 
-> Client work delivered under contract — source code and live systems are private. More case studies on the [portfolio](https://muhammadhumzariaz.netlify.app/#projects).
+> Client work delivered under contract — source code and live systems are private. More case studies on the [portfolio](https://humzariaz.me/#projects).
 
 #### 1. Health Management System
 - **Tech Stack:** Laravel, Angular, AWS RDS (MySQL/PostgreSQL), Node.js, Redis
@@ -159,6 +171,9 @@ I am a **Senior Software Engineer** with over **7 years of hands-on experience**
 
 - **Email:** [humzariaz47@outlook.com](mailto:humzariaz47@outlook.com)
 - **Phone:** [+92 308 4391023](tel:+923084391023)
+- **Portfolio:** [humzariaz.me](https://humzariaz.me)
 - **LinkedIn:** [linkedin.com/in/muhammad-humza-riaz](https://www.linkedin.com/in/muhammad-humza-riaz)
-- **GitHub:** [@humzaxsn](https://github.com/humzaxsn)
-- **Location:** Lahore, Johar Town, Pakistan
+- **GitHub:** [@humzaxsn](https://github.com/HumzaXSN)
+- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~0157a4dfc1f41bea5a)
+- **Fiverr:** [fiverr.com/users/humzaxsn](https://www.fiverr.com/users/humzaxsn)
+- **Location:** Lahore, Pakistan
